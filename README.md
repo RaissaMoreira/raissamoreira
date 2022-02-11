@@ -1,6 +1,6 @@
 ### Hi, I'm Raissa Moreira
 
-:point_right: I'm currently studying vue
+:point_right: I'm currently studying Vue :green_heart:
 
 🌱 I’m currently working on developing my technical skills.
 
