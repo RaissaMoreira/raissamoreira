@@ -1,8 +1,10 @@
 ### Hi, I'm Raissa Moreira
 
-<br/>:octocat:<br/>
-- 🌱 I’m currently working on developing my technical skills.
--	😊 Front-end Developer student, seeking an entry level position.
+:point_right: I'm currently studying vue
+
+🌱 I’m currently working on developing my technical skills.
+
+😊 Front-end Developer student, seeking an entry level position.
 
 <div align="center">
   <a href="https://github.com/RaissaMoreira">
