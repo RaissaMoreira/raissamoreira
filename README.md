@@ -1,6 +1,6 @@
 ### Hi, I'm Raissa Moreira
 
-:point_right: I'm currently studying Vue :green_heart: and TypeScript :blue_heart:
+:point_right: I'm currently studying React ⚛️ 
 
 🌱 I’m currently working on developing my technical skills.
 
