@@ -20,7 +20,7 @@
   <img align="center" alt="Raissa-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Raissa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Raissa-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Raissa-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg">
+  <img align="center" alt="Raissa-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
   
  ##
