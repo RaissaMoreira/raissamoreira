@@ -2,7 +2,7 @@
 
 🌱 I’m currently working on developing my technical skills.
 
-😊 Front-end Developer student, seeking an entry level position.
+😊 Front-end Developer student.
 
 <div align="center">
   <a href="https://github.com/RaissaMoreira">
