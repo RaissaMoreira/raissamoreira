@@ -25,7 +25,7 @@
 <div>
   <a href="https://instagram.com/raissammoreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: raissamoreira80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/raissamoreira" target="_blank"><img src="https://img.shields.io/badge/-Codepen-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Codepen" /></a>
+  <a href="https://codepen.io/raissamoreira" target="_blank"><img src="https://img.shields.io/badge/-Codepen-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Codepen" /></a>
   <a href="https://www.linkedin.com/in/raissammoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
