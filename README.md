@@ -1,4 +1,4 @@
-### Oh, Hello There! I'm Raissa Moreira
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=&color=A953FC&multiline=true&repeat=false&width=435&height=60&lines=Oh%2C+Hello+There!;++I'm+Raissa+Moreira+.)](https://git.io/typing-svg)
 
 🌱 I’m currently working on developing my technical skills.
 
@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/RaissaMoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaMoreira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaMoreira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
