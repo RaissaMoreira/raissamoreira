@@ -24,10 +24,6 @@
   
  ##
   
- ![Visitor Count](https://profile-counter.glitch.me/RaissaMoreira/count.svg)
-  
- ##
-  
 <div>
   <a href="https://instagram.com/raissammoreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%ffffff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: raissamoreira80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9146FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
