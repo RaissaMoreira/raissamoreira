@@ -2,7 +2,7 @@
 
 🌱 I’m currently working on developing my technical skills.
 
-😊 Front-end Developer student.
+😊 Front-end Developer.
 
 <div align="center">
   <a href="https://github.com/RaissaMoreira">
@@ -20,6 +20,7 @@
   <img align="center" alt="Raissa-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Raissa-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="Raissa-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Raissa-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
   
  ##
@@ -29,5 +30,4 @@
   <a href = "mailto: raissamoreira80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9146FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/raissamoreira" target="_blank"><img src="https://img.shields.io/badge/-Codepen-FF0000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
   <a href="https://www.linkedin.com/in/raissammoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
